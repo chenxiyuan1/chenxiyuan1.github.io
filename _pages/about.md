@@ -19,7 +19,7 @@ My research interests include but is not limited to:
 * Application: Healthcare, Bioinformatics, Manufacturing (User-Centered Design)
 
 ## Education
-  * Ph.D. in Industrial Engineering, Northeastern University, 2017-2022
-  * M.S. in Industrial and System Engineering, University of Florida, 2015-2017
-  * B.S. in Mechanical Engineering, Northwest University, 2011-2015
+  * Ph.D. in Industrial Engineering, Northeastern University, Boston, 2017-2022
+  * M.S. in Industrial and System Engineering, University of Florida, Gainesville, 2015-2017
+  * B.S. in Mechanical Engineering, Northwest University, China, 2011-2015
 
