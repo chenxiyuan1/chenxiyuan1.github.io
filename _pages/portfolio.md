@@ -7,7 +7,9 @@ author_profile: true
 
 
 ## Orange Juice 
-<img src='/images/Image_OJ.png'> <br>
+<img src='/images/OJ_1.jpg'
+  width="200" 
+  height="200" > <br>
 Orange Juice excels in the art of relaxation and stress reduction. His signature skill? The big purr. His purr, resembling a soothing symphony, has the power to lower stress levels and create an ambiance conducive to creative thinking and efficient problem-solving.
 
 ## Duke 
