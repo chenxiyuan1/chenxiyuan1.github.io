@@ -6,11 +6,13 @@ author_profile: true
 ---
 
 
-# Orange Juice
+## Orange Juice <br/><img src='/images/500x300.png'>
+
 Research support: big purr to cheer up 
-# Duke
+
+## Duke
 Research support: big meow to support
-# Sky
+## Sky
 Research support: walking in front of computer monitor to clean reserach supplies
-# Hayden
+## Hayden
 Research support: sleeping and supervise other three members
