@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Group"
+title: "Group Members"
 permalink: /portfolio/
 author_profile: true
 ---
