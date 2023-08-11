@@ -5,8 +5,12 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-## Group Members
-1. Orange Juice
-2. Duke
-3. Sky
-4. Hayden
+
+# Orange Juice
+Research support: big purr to cheer up 
+# Duke
+Research support: big meow to support
+# Sky
+Research support: walking in front of computer monitor to clean reserach supplies
+# Hayden
+Research support: sleeping and supervise other three members
