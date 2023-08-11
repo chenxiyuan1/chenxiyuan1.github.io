@@ -10,14 +10,16 @@ redirect_from:
 
 # About me
 
-I am a postdoctoral researcher at University of Pennsylvania and I work with Dr. Rebecca A. Hubabrd and Dr. Kristin A. Linn. I obtained my PhD in Industrial Engineering at Northeastern University in 2022, under the supervision of Prof. [Mohsen Moghaddam](https://www.sail-nu.com/mohsen-moghaddam). My research focuses on the development and application of generative AI models in mission-critical tasks, with a focus on Alzheimer’s Disease (AD) and product development. 
+I am a postdoctoral researcher from Department of Biostatistics, Perelman School of Medicine at University of Pennsylvania. I work with Dr. [Rebecca A. Hubabrd](https://www.dbei.med.upenn.edu/bio/rebecca-hubbard-phd) and Dr. [Kristin A. Linn](https://www.dbei.med.upenn.edu/bio/kristin-linn-phd). I am a member of Penn Statistics in Imaging and Visualization Endeavor [(PennSIVE)](https://www.dbeicoe.med.upenn.edu/pennsive) center. My methodological work focuses on developing and applying deep learning approaches that facilitate precision medicine and equitably improve health outcomes. Specifically, I develope deep generative models to generate 3D strucutral Magnetic Resonance Imaging (MRI) images. ...
+
+I obtained my PhD in Industrial Engineering at Northeastern University in 2022, under the supervision of Prof. [Mohsen Moghaddam](https://www.sail-nu.com/mohsen-moghaddam) and Prof. [Sagar Karmathi](https://coe.northeastern.edu/people/kamarthi-sagar/). My work focused on the development and application of Generative Adversarial Networks (GANs) and Natural Language Processing (NLP) in user-centered product development. 
 
 ## Reseach Interest
    * Methodology: Generative AI models; Fairness in AI; Multimodal learning; Transfer learning; Natural Language Processing
-   * Application: Healthcare, Bioinformatics, Manufacturing
+   * Application: Healthcare, Bioinformatics, Manufacturing (User-Centered Design)
 
 ## Education
-  * Ph.D. in Industrial Engineering, 2022, Northeastern University
-  * M.S. in Industrial Engineering, 2015, University of Florida
-  * B.S. in Mechanical Engineering, 2015, Northwest University
+  * Ph.D. in Industrial Engineering, Northeastern University, 2017-2022
+  * M.S. in Industrial and System Engineering, University of Florida, 2015-2017
+  * B.S. in Mechanical Engineering, Northwest University, 2011-2015
 
