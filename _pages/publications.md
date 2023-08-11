@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-# Preprint
+## Preprint
 1. Algorithmic Fairness of Machine Learning Models for Alzheimer's Disease Progression Prediction. [[ArXiv]](https://www.medrxiv.org/content/10.1101/2023.07.06.23292322v1.full.pdf)<br>
 **Chenxi Yuan**, Kristin A Linn, Rebecca A Hubbard
 2. ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease.<br>
 **Chenxi Yuan**, Jinhao Duan, Nicholas J. Tustison, Kaidi Xu, Kristin A Linn, Rebecca A Hubbard
 
 
-# Published
+## Published
 1. Are generative adversarial networks capable of generating novel and diverse design concepts? An experimental analysis of performance. <i> _Proceedings of the Design Society_. (2023) </i> [[Paper]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/05D912C74658C40E78C66D2304103C7E/S2732527X23000640a.pdf/div-class-title-are-generative-adversarial-networks-capable-of-generating-novel-and-diverse-design-concepts-an-experimental-analysis-of-performance-div.pdf) <br>
 Parisa Ghasemi, **Chenxi Yuan**, Tucker Marion, Mohsen Moghaddam
 
