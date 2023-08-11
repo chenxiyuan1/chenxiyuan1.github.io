@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Orange Juice 
-<img src='/images/OJ_1.jpg'>
+<img src='/images/Image_OJ.png'>
 Research support: big purr to cheer up 
 
 ## Duke 
