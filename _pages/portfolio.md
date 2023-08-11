@@ -16,8 +16,8 @@ Duke is a true maestro of the meow! His meows resonate not just as sounds, but a
 
 ## Sky
 <img src='/images/Image_huihui2.png'><br>
-Hayden embodies the spirit of companionship and camaraderie. She has an uncanny knack for following her fellow feline colleagues with an eager curiosity, turning each exploration into a playful escapade. Her delightful antics remind us that camaraderie and shared moments of fun are essential ingredients in any collaborative endeavor.
+Sky is a great example of friendship and teamwork. She has an uncanny ability to follow her fellow cats with eager wonder, which makes every journey a fun adventure. Her funny acts remind us that getting along with others and having fun together are important parts of any group project.
 
 ## Hayden
 <img src='/images/Image_ruan2.png'><br>
-Hayden has mastered the art of balance between productivity and leisure. Her preferred avenue? A leisurely stroll in front of our computer screens, her delicate pawprints and gentle gaze reminding us to take a moment for companionship. Her presence reminds us to pause, breathe, and appreciate the small moments amidst the demands of our work.
+Hayden has learned how to find a good mix between work and play. Her favorite way? A slow walk in front of our computer screens, where her tiny paw prints and gentle gaze reminded us to take a moment for company. Her appearance tells us to take a break from our work, breathe, and enjoy what's around us.
