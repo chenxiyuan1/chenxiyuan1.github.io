@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chenxi Yuan"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
