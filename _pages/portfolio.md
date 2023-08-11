@@ -5,10 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+## Group Members
+1. Orange Juice
+2. Duke
+3. Sky
+4. Hayden
