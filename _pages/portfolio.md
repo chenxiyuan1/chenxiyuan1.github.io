@@ -11,7 +11,7 @@ author_profile: true
 Research support: big purr to cheer up 
 
 ## Duke 
-<img src='/images/Image_dudud.jpg'>
+<img src='/images/Image_dudud.png'>
 Research support: big meow to support
 
 ## Sky
