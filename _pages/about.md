@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Biography
+# Biography
 
 I am a postdoctoral researcher from Department of Biostatistics, Perelman School of Medicine at University of Pennsylvania. I work with Dr. [Rebecca A. Hubabrd](https://www.dbei.med.upenn.edu/bio/rebecca-hubbard-phd) and Dr. [Kristin A. Linn](https://www.dbei.med.upenn.edu/bio/kristin-linn-phd). I am a member of Penn Statistics in Imaging and Visualization Endeavor [(PennSIVE)](https://www.dbeicoe.med.upenn.edu/pennsive) center. My methodological work focuses on developing and applying deep learning approaches that facilitate precision medicine and equitably improve health outcomes. Specifically, I develope deep generative models to generate 3D strucutral Magnetic Resonance Imaging (MRI) images. ...
 
