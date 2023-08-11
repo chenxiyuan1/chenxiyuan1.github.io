@@ -17,7 +17,7 @@ I am a postdoctoral researcher at University of Pennsylvania and I work with Dr.
    * Application: Healthcare, Bioinformatics, Manufacturing
 
 ## Education
-*Ph.D. in Industrial Engineering, 2022, Northeastern University
-*M.S. in Industrial Engineering, 2015, University of Florida
-*B.S. in Mechanical Engineering, 2015, Northwest University
+  * Ph.D. in Industrial Engineering, 2022, Northeastern University
+  * M.S. in Industrial Engineering, 2015, University of Florida
+  * B.S. in Mechanical Engineering, 2015, Northwest University
 
