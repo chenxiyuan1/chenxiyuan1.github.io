@@ -7,10 +7,10 @@ author_profile: true
 
 
 ## Preprint
-1. Algorithmic Fairness of Machine Learning Models for Alzheimer's Disease Progression Prediction. [[medRxiv]](https://www.medrxiv.org/content/10.1101/2023.07.06.23292322v1)<br>
-**Chenxi Yuan**, Kristin A Linn, Rebecca A Hubbard
-2. ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease.[[medRxiv]](https://www.medrxiv.org/content/10.1101/2023.08.16.23294169v1)<br>
+1. ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease.[[medRxiv]](https://www.medrxiv.org/content/10.1101/2023.08.16.23294169v1)<br>
 **Chenxi Yuan**, Jinhao Duan, Nicholas J. Tustison, Kaidi Xu, Kristin A Linn, Rebecca A Hubbard
+2. Algorithmic Fairness of Machine Learning Models for Alzheimer's Disease Progression Prediction. [[medRxiv]](https://www.medrxiv.org/content/10.1101/2023.07.06.23292322v1)<br>
+**Chenxi Yuan**, Kristin A Linn, Rebecca A Hubbard
 
 
 ## Published
