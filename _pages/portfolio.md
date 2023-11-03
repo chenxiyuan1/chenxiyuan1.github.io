@@ -7,7 +7,7 @@ author_profile: true
 
 Research support team is dedicated to delivering specialized research services. This initiative draws its inspiration from my mentor, Dr. Hubbard, an avid enthusiast of felines who features her adorable feline companions on her [website](https://www.med.upenn.edu/ehr-stats/study-team.html).
 
-## Orange Juice 
+## Orange Juice (Emeritus)
 <img src='/images/Image_mian.jpg'
   width="200" 
   height="200" > <br>
