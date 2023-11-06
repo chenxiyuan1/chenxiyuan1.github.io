@@ -10,14 +10,14 @@ redirect_from:
 
 # Biography
 
-I am a postdoctoral researcher mentored by Dr. [Rebecca A. Hubbard](https://www.dbei.med.upenn.edu/bio/rebecca-hubbard-phd) and Dr. [Kristin A. Linn](https://www.dbei.med.upenn.edu/bio/kristin-linn-phd) in the [Statistics for EHR lab](https://www.med.upenn.edu/ehr-stats/) at [University of Pennsylvania](https://www.upenn.edu/). I am a member of [Penn Statistics in Imaging and Visualization Endeavor (PennSIVE)](https://www.dbeicoe.med.upenn.edu/pennsive) center. My methodological work focuses on developing and applying deep learning approaches that facilitate precision medicine and equitably improve health outcomes. Specifically, I  develope deep generative models to generate complete medical data, such as magnetic resonance imaging and electronic health records, for under-represented populations. Additionally, I charactize and assess algorithmic fairness in machine learning models that predict prevalent public health diseases like Alzheimer’s disease and breast cancer
+I am a postdoctoral researcher mentored by Prof. [Rebecca A. Hubbard](https://www.dbei.med.upenn.edu/bio/rebecca-hubbard-phd) and Prof. [Kristin A. Linn](https://www.dbei.med.upenn.edu/bio/kristin-linn-phd) in the [Statistics for EHR lab](https://www.med.upenn.edu/ehr-stats/) at [University of Pennsylvania](https://www.upenn.edu/). I am a member of [Penn Statistics in Imaging and Visualization Endeavor (PennSIVE)](https://www.dbeicoe.med.upenn.edu/pennsive) center. My methodological work focuses on developing and applying deep learning approaches that facilitate precision medicine and equitably improve health outcomes. Specifically, I  develope deep generative models to generate complete medical data, such as magnetic resonance imaging and electronic health records, for under-represented populations. Additionally, I charactize and assess algorithmic fairness in machine learning models that predict prevalent public health diseases like Alzheimer’s disease and breast cancer
 
-I obtained my PhD in Industrial Engineering at [Northeastern University](https://www.northeastern.edu/) in 2022, under the supervision of Prof. [Mohsen Moghaddam](https://www.sail-nu.com/mohsen-moghaddam) and Prof. [Sagar Kamarthi](https://coe.northeastern.edu/people/kamarthi-sagar/). My work focused on the development and application of Generative Adversarial Networks (GANs) and Natural Language Processing (NLP) in user-centered product development. 
+I obtained my PhD in Industrial Engineering at [Northeastern University](https://www.northeastern.edu/) in 2022, under the supervision of Prof. [Mohsen Moghaddam](https://www.sail-nu.com/mohsen-moghaddam) and Prof. [Sagar Kamarthi](https://coe.northeastern.edu/people/kamarthi-sagar/). My work focused on the development and application of Generative Adversarial Networks (GANs) and Natural Language Processing (NLP) in intelligent manufacturing. 
 
 My research interests include but is not limited to:   
-* Generative AI: Diffusion Models, Generative adversarial networks, LLMs, Multimodal learning
-* Trustworthy Machine Learning: Fairness in AI
-* Interdisciplinary Application: Healthcare, Bioinformatics, Intelligent manufacturing
+* **Generative AI**: Diffusion Models, Generative adversarial networks, LLMs, Multimodal learning
+* **Trustworthy Machine Learning**: Fairness in AI
+* **Interdisciplinary Application**: Healthcare, Bioinformatics, Intelligent manufacturing
 
 
 ## Grants
