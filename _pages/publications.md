@@ -12,7 +12,7 @@ author_profile: true
 **Chenxi Yuan**, Jinhao Duan, Nicholas J. Tustison, Kaidi Xu, Kristin A Linn, Rebecca A Hubbard
 2. [AI Fairness] [Healthcare] Fairness Verification of Artificial Intelligence Algorithms in Predicting Progression of Alzheimer's Disease. (Preprint)<br>
 Chenan Wang, **Chenxi Yuan**, Jinhao Duan, Tianlong Chen, Kristin A Linn, Rebecca A Hubbard, Kaidi Xu.
-3. [Machine Learning] [Healthcare] Interpretable Medical Deep Framework by Logits-constraint Attention Guiding Graph-based Multi-scale Fusion for Alzheimer's Disease Analysis." (Preprint)<br>
+3. [Machine Learning] [Healthcare] Interpretable Medical Deep Framework by Logits-constraint Attention Guiding Graph-based Multi-scale Fusion for Alzheimer's Disease Analysis. (Preprint)<br>
 Jinghao Xu, **Chenxi Yuan**, Xiaochuan Ma, Huifang Shang, Xiaoshuang Shi, Xiaofeng Zhu.
 4. [Generative AI] [Manufacturing] DCG-GAN: Design Concept Generation with Generative Adversarial Networks. (Preprint)<br>
 Parisa Ghasemi, **Chenxi Yuan**, Tucker Marion, and Mohsen Moghaddam. ``
