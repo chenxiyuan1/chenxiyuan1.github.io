@@ -19,7 +19,7 @@ Parisa Ghasemi, **Chenxi Yuan**, Tucker Marion, and Mohsen Moghaddam. ``
 
 ## Published
 
-5. [AI Fairness] [Healthcare] Algorithmic Fairness of Machine Learning Models for Alzheimer's Disease Progression Prediction. <i> _JAMA Network Open_ (2023) </i>. (Impact factor: 13.37) [[medRxiv]](https://www.medrxiv.org/content/10.1101/2023.07.06.23292322v1)<br>
+5. [AI Fairness] [Healthcare] Algorithmic Fairness of Machine Learning Models for Alzheimer's Disease Progression Prediction. <i> _JAMA Network Open_ (2023) </i>. (Impact factor: 13.37) [[Paper]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2811461)<br>
 **Chenxi Yuan**, Kristin A Linn, Rebecca A Hubbard
 
 6. [Generative AI] [Manufacturing] Are generative adversarial networks capable of generating novel and diverse design concepts? An experimental analysis of performance. <i> _Proceedings of the Design Society_ (2023) </i> [[Paper]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/05D912C74658C40E78C66D2304103C7E/S2732527X23000640a.pdf/div-class-title-are-generative-adversarial-networks-capable-of-generating-novel-and-diverse-design-concepts-an-experimental-analysis-of-performance-div.pdf) <br>
