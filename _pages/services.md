@@ -18,5 +18,5 @@ author_profile: true
 * <b> Journal Reviewer </b>
      * PloS one., 2023
      * Journal of Mechanical Design, 2020, 2021 and 2022
-     * IIEEE Transactions on Neural Networks and Learning System, 2021
+     * IEEE Transactions on Neural Networks and Learning System, 2021
      * Expert Systems with Applications, 2020
