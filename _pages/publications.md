@@ -9,24 +9,24 @@ author_profile: true
 ## Preprint
 
 1. [Generative AI] [Healthcare] ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease.[[medRxiv]](https://www.medrxiv.org/content/10.1101/2023.08.16.23294169v1)<br>
-**Chenxi Yuan**, Jinhao Duan, Nicholas J. Tustison, Kaidi Xu, Kristin A Linn, Rebecca A Hubbard
+**Chenxi Yuan**, Jinhao Duan, Nicholas J. Tustison, Kaidi Xu, Kristin A. Linn, Rebecca A. Hubbard
 2. [AI Fairness] [Healthcare] Fairness Verification of Artificial Intelligence Algorithms in Predicting Progression of Alzheimer's Disease. (Preprint)<br>
-Chenan Wang, **Chenxi Yuan**, Jinhao Duan, Tianlong Chen, Kristin A Linn, Rebecca A Hubbard, Kaidi Xu.
+Chenan Wang, **Chenxi Yuan**, Jinhao Duan, Tianlong Chen, Kristin A. Linn, Rebecca A. Hubbard, Kaidi Xu
 3. [Machine Learning] [Healthcare] Interpretable Medical Deep Framework by Logits-constraint Attention Guiding Graph-based Multi-scale Fusion for Alzheimer's Disease Analysis. (Preprint)<br>
-Jinghao Xu, **Chenxi Yuan**, Xiaochuan Ma, Huifang Shang, Xiaoshuang Shi, Xiaofeng Zhu.
+Jinghao Xu, **Chenxi Yuan**, Xiaochuan Ma, Huifang Shang, Xiaoshuang Shi, Xiaofeng Zhu
 4. [Generative AI] [Manufacturing] DCG-GAN: Design Concept Generation with Generative Adversarial Networks. (Preprint)<br>
-Parisa Ghasemi, **Chenxi Yuan**, Tucker Marion, and Mohsen Moghaddam. ``
+Parisa Ghasemi, **Chenxi Yuan**, Tucker Marion, and Mohsen Moghaddam
 
 ## Published
 
-5. [AI Fairness] [Healthcare] Algorithmic Fairness of Machine Learning Models for Alzheimer's Disease Progression Prediction. <i> _JAMA Network Open_ (2023) </i>. (Impact factor: 13.37) [[Paper]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2811461)<br>
-**Chenxi Yuan**, Kristin A Linn, Rebecca A Hubbard
+5. [AI Fairness] [Healthcare] Algorithmic Fairness of Machine Learning Models for Alzheimer's Disease Progression Prediction. <i> _JAMA Network Open_ (2023) </i>. (**Impact factor: 13.37**) [[Paper]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2811461)<br>
+**Chenxi Yuan**, Kristin A. Linn, Rebecca A. Hubbard
 
-6. [Generative AI] [Manufacturing] Are generative adversarial networks capable of generating novel and diverse design concepts? An experimental analysis of performance. <i> _Proceedings of the Design Society_ (2023) </i> [[Paper]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/05D912C74658C40E78C66D2304103C7E/S2732527X23000640a.pdf/div-class-title-are-generative-adversarial-networks-capable-of-generating-novel-and-diverse-design-concepts-an-experimental-analysis-of-performance-div.pdf) <br>
-Parisa Ghasemi, **Chenxi Yuan**, Tucker Marion, Mohsen Moghaddam
-
-7. [Generative AI] [Manufacturing] DDE-GAN: Integrating a data-driven design evaluator into generative adversarial networks for desirable and diverse concept generation. <i> _Journal of Mechanical Design_ (2023)</i> [[Paper]](https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/145/4/041407/1154775/DDE-GAN-Integrating-a-Data-Driven-Design-Evaluator) <br>
+6. [Generative AI] [Manufacturing] DDE-GAN: Integrating a data-driven design evaluator into generative adversarial networks for desirable and diverse concept generation. <i> _Journal of Mechanical Design_ (2023)</i> [[Paper]](https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/145/4/041407/1154775/DDE-GAN-Integrating-a-Data-Driven-Design-Evaluator) <br>
 **Chenxi Yuan**, Tucker Marion, Mohsen Moghaddam
+
+7. [Generative AI] [Manufacturing] Are generative adversarial networks capable of generating novel and diverse design concepts? An experimental analysis of performance. <i> _Proceedings of the Design Society_ (2023) </i> [[Paper]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/05D912C74658C40E78C66D2304103C7E/S2732527X23000640a.pdf/div-class-title-are-generative-adversarial-networks-capable-of-generating-novel-and-diverse-design-concepts-an-experimental-analysis-of-performance-div.pdf) <br>
+Parisa Ghasemi, **Chenxi Yuan**, Tucker Marion, Mohsen Moghaddam
 
 8. [Machine Learning] [Manufacturing] Trends in intelligent manufacturing research: a keyword co-occurrence network based review. <i> _Journal of intelligent manufacturing_ (2022) </i> [[Paper]](https://link.springer.com/article/10.1007/s10845-021-01885-x) <br>
 **Chenxi Yuan**, Guoyan Li, Sagar Kamarthi, Xiaoning Jin, Mohsen Moghaddam
