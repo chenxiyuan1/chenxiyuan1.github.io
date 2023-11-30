@@ -8,7 +8,6 @@ author_profile: true
 
 
 * <b> Workshop Organization </b>
-
     * Lead organizer: Workshop “Generative AI and Foundation Models in Health”, the International Conference on Learning Representations (ICLR) 2024.
     * Session chair:  “Towards Data-Driven Healthcare: Improving Patient Outcomes through Advanced Analytics”, 2023 INFORMS Annual Conference.
 
