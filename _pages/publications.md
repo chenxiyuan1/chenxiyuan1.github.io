@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "[Publications] (https://scholar.google.com/citations?user=6rWkFGgAAAAJ&hl=en&oi=ao)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
+[Google scholar profile](https://scholar.google.com/citations?user=6rWkFGgAAAAJ&hl=en&oi=ao)
 
 ## Preprint
 
