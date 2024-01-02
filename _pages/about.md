@@ -14,9 +14,9 @@ I am a postdoctoral researcher mentored by Prof. [Rebecca A. Hubbard](https://ww
 
 I obtained my PhD in Industrial Engineering at [Northeastern University](https://www.northeastern.edu/) in 2022, under the supervision of Prof. [Mohsen Moghaddam](https://www.sail-nu.com/mohsen-moghaddam) and Prof. [Sagar Kamarthi](https://coe.northeastern.edu/people/kamarthi-sagar/). My work focused on the development and application of Generative Adversarial Networks (GANs) and Natural Language Processing (NLP) in intelligent manufacturing. 
 
-My research interests include but is not limited to:   
-* **Generative AI**: Diffusion Models, Generative adversarial networks, LLMs, Multimodal learning
-* **Trustworthy Machine Learning**: Fairness in AI
+My research interests include but are not limited to the following:   
+* **Generative AI**: Diffusion Models, Generative Adversarial Networks, LLMs, Multimodal Learning
+* **Fairness in AI**: Algorithmic Fairness, Fairness Verification, Imbalabced Data, Missing Data
 * **Interdisciplinary Application**: Healthcare, Bioinformatics, Intelligent manufacturing
 
 
