@@ -16,7 +16,7 @@ I obtained my PhD in Industrial Engineering at [Northeastern University](https:/
 
 My research interests include but are not limited to the following:   
 * **Generative AI**: Diffusion Models, Generative Adversarial Networks, LLMs, Multimodal Learning
-* **Fairness in AI**: Algorithmic Fairness, Fairness Verification, Imbalabced Data, Missing Data
+* **Fairness in AI**: Algorithmic Fairness, Fairness Verification, Missing Data, Imbalanced Data
 * **Interdisciplinary Application**: Healthcare, Bioinformatics, Intelligent manufacturing
 
 
