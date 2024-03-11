@@ -7,14 +7,7 @@ author_profile: true
 
 Research support team is dedicated to delivering specialized research services. This initiative draws its inspiration from my mentor, Dr. Hubbard, an avid enthusiast of felines who features her adorable feline companions on her [website](https://www.med.upenn.edu/ehr-stats/study-team.html).
 
-## Orange Juice (Emeritus)
-<img src='/images/Image_mian.jpg'
-  width="200" 
-  height="200" > <br>
 
-* Work experience: 11 yrs 
-* Last employment: [Philadelphia Animal Welfare Society (PAWS)](https://phillypaws.org/), Dec. 2021.
-* About him: Orange Juice excels in the art of relaxation and stress reduction. His signature skill? The big purr. His purr has the power to lower stress levels and create an ambiance conducive to creative thinking and efficient problem-solving.
 
 ## Duke 
 <img src='/images/Image_dudud.jpg'
@@ -43,3 +36,12 @@ Research support team is dedicated to delivering specialized research services. 
 * Work experience: 3 yrs 
 * Last employment: [Homeward Bound Pet Adoption Center](https://www.homewardboundnj.org/), Aug. 2021
 * About her: Hayden has learned how to balance work and play well. A slow walk in front of our computer screens, where her tiny paw prints and soft gaze told us to take a moment for the company. Her appearance tells us to take a break from our work, breathe, and enjoy what's around us.
+
+## Orange Juice (Emeritus)
+<img src='/images/Image_mian.jpg'
+  width="200" 
+  height="200" > <br>
+
+* Work experience: 11 yrs 
+* Last employment: [Philadelphia Animal Welfare Society (PAWS)](https://phillypaws.org/), Dec. 2021.
+* About him: Orange Juice excels in the art of relaxation and stress reduction. His signature skill? The big purr. His purr has the power to lower stress levels and create an ambiance conducive to creative thinking and efficient problem-solving.
