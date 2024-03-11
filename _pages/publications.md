@@ -17,6 +17,7 @@ Chenan Wang, **Chenxi Yuan**, Jinhao Duan, Tianlong Chen, Kristin A. Linn, Rebec
 Jinghao Xu, **Chenxi Yuan**, Xiaochuan Ma, Huifang Shang, Xiaoshuang Shi, Xiaofeng Zhu
 4. [Generative AI] [Manufacturing] DCG-GAN: Design Concept Generation with Generative Adversarial Networks. (Preprint)<br>
 Parisa Ghasemi, **Chenxi Yuan**, Tucker Marion, and Mohsen Moghaddam
+5. [Generative AI] [Healthcare] Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications and Beyond. [[arXiv]](https://arxiv.org/html/2402.14259v1)<br> Zhiyuan Wang, Jinhao Duan, **Chenxi Yuan**, Qingyu Chen, Tianlong Chen, Huaxiu Yao, Yue Zhang, Ren Wang, Kaidi Xu, Xiaoshuang Shi
 
 ## Published
 
