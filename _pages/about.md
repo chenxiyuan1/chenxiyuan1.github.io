@@ -21,7 +21,7 @@ My research interests include but are not limited to the following:
 
 <span style="color:red">I will join the Department of Informatics at Ying Wu College of Computing, New Jersey Institute of Technology (NJIT) as a tenure-track Assistant Professor in 2024 Fall!</span> 
 
-I am seeking highly self-motivated PhD students who are interested in generative AI in health. If you are interested in working with me, please email chelseayuan94@gmail.com with your CV, transcript, and other materials that you want to share.
+<span style="color:red"> I am seeking highly self-motivated PhD students who are interested in generative AI in health. If you are interested in working with me, please email chelseayuan94@gmail.com with your CV, transcript, and other materials that you want to share.</span>
 
 ## Education
   * Ph.D. in Industrial Engineering, Northeastern University, Boston, 2017-2022
