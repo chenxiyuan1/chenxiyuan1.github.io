@@ -19,7 +19,7 @@ My research interests include but are not limited to the following:
 * **Fairness in AI**: Algorithmic Fairness, Fairness Verification, Missing Data, Imbalanced Data
 * **Interdisciplinary Application**: Healthcare, Bioinformatics, Intelligent manufacturing
 
-I will join the Department of Informatics at the New Jersey Institute of Technology (NJIT) as a tenure-track Assistant Professor! I am seeking highly self-motivated PhD students who are interested in generative AI in health. If you are interested in working with me, please email chelseayuan94@gmail.com(chelseayuan94@gmail.com) with your CV, transcript, and other materials that you want to share. 
+I will join the Department of Informatics at the New Jersey Institute of Technology (NJIT) as a tenure-track Assistant Professor! I am seeking highly self-motivated PhD students who are interested in generative AI in health. If you are interested in working with me, please email chelseayuan94@gmail.com with your CV, transcript, and other materials that you want to share. 
 
 ## Education
   * Ph.D. in Industrial Engineering, Northeastern University, Boston, 2017-2022
