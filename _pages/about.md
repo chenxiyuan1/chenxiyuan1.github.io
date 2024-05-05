@@ -19,21 +19,9 @@ My research interests include but are not limited to the following:
 * **Fairness in AI**: Algorithmic Fairness, Fairness Verification, Missing Data, Imbalanced Data
 * **Interdisciplinary Application**: Healthcare, Bioinformatics, Intelligent manufacturing
 
+**I will join the Department of Informatics at the New Jersey Institute of Technology (NJIT) as a tenure-track Assistant Professor! I am seeking highly self-motivated PhD students who are interested in generative AI in health. If you are interested in working with me, please email to chelseayuan94@gmail.com with your cv, transcript and other materials that you want to share.** 
 
-## Grants
 
-* Enhancing Predictive Modeling for Alzheimer's Disease Progression: Addressing Missing Data and Ensuring Fairness in Multimodal Longitudinal Analyses <br>
-Role: **Principal Investigator** <br>
-Institute: NIH/NIA K99 <br>
-Status of support: Pending<br>
-Project Date (if available): 07/01/24 – 06/30/29<br>
-Total Award Amount (including Indirect Costs): \$963,996<br>
-
-* Advancing Health Equity in the Era of Risk-guided Cancer Screening<br>
-Role: Co-Investigator <br>
-Institute: NIH/NIC <br>
-Status of support: Pending<br>
-Project Date (if available): 07/01/24 – 06/30/28<br>
 
 
 ## Education
