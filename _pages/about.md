@@ -14,6 +14,10 @@ I am a postdoctoral researcher mentored by Prof. [Rebecca A. Hubbard](https://ww
 
 I obtained my PhD in Industrial Engineering at [Northeastern University](https://www.northeastern.edu/) in 2022, under the supervision of Prof. [Mohsen Moghaddam](https://www.sail-nu.com/mohsen-moghaddam) and Prof. [Sagar Kamarthi](https://coe.northeastern.edu/people/kamarthi-sagar/). My work focused on the development and application of Generative Adversarial Networks (GANs) and Natural Language Processing (NLP) in intelligent manufacturing. 
 
+<span style="color:red">I will join the Department of Informatics at Ying Wu College of Computing, New Jersey Institute of Technology (NJIT) as a tenure-track Assistant Professor in 2024 Fall!</span> 
+
+<span style="color:red"> I am seeking highly self-motivated PhD students who are interested in generative AI in health. If you are interested in working with me, please email chelseayuan94@gmail.com with your CV, transcript, and other materials that you want to share.</span>
+
 My research interests include but are not limited to the following:   
 * **Generative AI**: Diffusion Models, Generative Adversarial Networks, LLMs, Multimodal Learning
 * **Fairness in AI**: Algorithmic Fairness, Fairness Verification, Missing Data, Imbalanced Data
