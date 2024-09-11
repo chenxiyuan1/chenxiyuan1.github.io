@@ -24,6 +24,6 @@ Her research interests include but are not limited to the following:
 
 ## Education
   * Ph.D. in Industrial Engineering, Northeastern University, Boston, 2017-2022
-  * M.S. in Industrial and System Engineering, University of Florida, Gainesville, 2015-2017
+  * M.S. in Industrial Engineering, University of Florida, Gainesville, 2015-2017
   * B.S. in Mechanical Engineering, Northwest University, China, 2011-2015
 
