@@ -9,20 +9,20 @@ author_profile: true
 
 ## Preprint
 
-1. [Generative AI] [Healthcare] ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease.[[medRxiv]](https://www.medrxiv.org/content/10.1101/2023.08.16.23294169v1)<br>
-**Chenxi Yuan**, Jinhao Duan, Nicholas J. Tustison, Kaidi Xu, Kristin A. Linn, Rebecca A. Hubbard
-
-3. [AI Fairness] [Healthcare] Fairness Verification of Artificial Intelligence Algorithms in Predicting Progression of Alzheimer's Disease. (Preprint)<br>
+1. [AI Fairness] [Healthcare] Fairness Verification of Artificial Intelligence Algorithms in Predicting Progression of Alzheimer's Disease. (Preprint)<br>
 Chenan Wang, **Chenxi Yuan**, Jinhao Duan, Tianlong Chen, Kristin A. Linn, Rebecca A. Hubbard, Kaidi Xu
 
-4. [Generative AI] [Healthcare] Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications and Beyond. [[arXiv]](https://arxiv.org/html/2402.14259v1)<br>
+3. [Generative AI] [Healthcare] Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications and Beyond. [[arXiv]](https://arxiv.org/html/2402.14259v1)<br>
 Zhiyuan Wang, Jinhao Duan, **Chenxi Yuan**, Qingyu Chen, Tianlong Chen, Huaxiu Yao, Yue Zhang, Ren Wang, Kaidi Xu, Xiaoshuang Shi
 
-5. [Generative AI] [Manufacturing] DCG-GAN: Design Concept Generation with Generative Adversarial Networks. (Preprint)<br>
+3. [Generative AI] [Manufacturing] DCG-GAN: Design Concept Generation with Generative Adversarial Networks. (Preprint)<br>
 Parisa Ghasemi, **Chenxi Yuan**, Tucker Marion, and Mohsen Moghaddam
  
 
 ## Published
+4. [Generative AI] [Healthcare] ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease.(Accepted by _Imaging Neuroscience_) <br>
+**Chenxi Yuan**, Jinhao Duan, Nicholas J. Tustison, Kaidi Xu, Kristin A. Linn, Rebecca A. Hubbard
+
 5. [Machine Learning] [Healthcare] Interpretable Medical Deep Framework by Logits-constraint Attention Guiding Graph-based Multi-scale Fusion for Alzheimer's Disease Analysis.  <i> _Pattern Recgonition_ (2024)</i> [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324002012) <br>
 Jinghao Xu, **Chenxi Yuan**, Xiaochuan Ma, Huifang Shang, Xiaoshuang Shi, Xiaofeng Zhu
 
