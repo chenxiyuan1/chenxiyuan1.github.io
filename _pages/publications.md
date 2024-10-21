@@ -15,13 +15,13 @@ Chenan Wang, **Chenxi Yuan**, Jinhao Duan, Tianlong Chen, Kristin A. Linn, Rebec
 3. [Generative AI] [Healthcare] Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications and Beyond. [[arXiv]](https://arxiv.org/html/2402.14259v1)<br>
 Zhiyuan Wang, Jinhao Duan, **Chenxi Yuan**, Qingyu Chen, Tianlong Chen, Huaxiu Yao, Yue Zhang, Ren Wang, Kaidi Xu, Xiaoshuang Shi
 
-3. [Generative AI] [Manufacturing] DCG-GAN: Design Concept Generation with Generative Adversarial Networks. (Preprint)<br>
-Parisa Ghasemi, **Chenxi Yuan**, Tucker Marion, and Mohsen Moghaddam
- 
-
 ## Published
-4. [Generative AI] [Healthcare] ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease.(Accepted by _Imaging Neuroscience_) <br>
+
+3. [Generative AI] [Healthcare] ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease. <i> _Imaging Neuroscience_ (2024)</i> [[Paper]](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00323/124778) <br>
 **Chenxi Yuan**, Jinhao Duan, Nicholas J. Tustison, Kaidi Xu, Kristin A. Linn, Rebecca A. Hubbard
+
+4. [Generative AI] [Manufacturing] DCG-GAN: Design Concept Generation with Generative Adversarial Networks. <i> _Design Science_ (2024)</i> [[Paper]](https://www.cambridge.org/core/journals/design-science/article/dcggan-design-concept-generation-with-generative-adversarial-networks/A414481344F928B57E6AC09193E05CDA) <br>
+Parisa Ghasemi, **Chenxi Yuan**, Tucker Marion, and Mohsen Moghaddam
 
 5. [Machine Learning] [Healthcare] Interpretable Medical Deep Framework by Logits-constraint Attention Guiding Graph-based Multi-scale Fusion for Alzheimer's Disease Analysis.  <i> _Pattern Recgonition_ (2024)</i> [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324002012) <br>
 Jinghao Xu, **Chenxi Yuan**, Xiaochuan Ma, Huifang Shang, Xiaoshuang Shi, Xiaofeng Zhu
