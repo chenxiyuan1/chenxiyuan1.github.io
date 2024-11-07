@@ -15,7 +15,7 @@ Chenxi (Chelsea) Yuan is an Assistant Professor of the Department of Informatics
 Her work focuses on developing and applying deep learning approaches that facilitate precision medicine and equitably improve health outcomes. Specifically, she develops deep generative models to generate complete medical data, such as magnetic resonance imaging and electronic health records, for under-represented populations. Additionally, she characterizes and assesses algorithmic fairness in machine learning models that predict prevalent public health diseases like Alzheimer’s disease and breast cancer.
 
 
-<span style="color:red"> I am seeking highly self-motivated PhD students who are interested in Fairness of AI in health. Interested candidates are strongly encouraged to email chelseayuan94@gmail.com with your CV, transcript, and other materials you want to share.</span>
+ I am seeking highly self-motivated PhD students who are interested in Fairness of AI in health. Interested candidates are strongly encouraged to email chelseayuan94@gmail.com with your CV, transcript, and other materials you want to share. <span style="color:red">GRE IS REQUIRED!</span> Please apply only if you have taken the GRE or plan to take the GRE test soon. 
 
 ## Education
   * Ph.D. in Industrial Engineering, Northeastern University, Boston, 2017-2022
