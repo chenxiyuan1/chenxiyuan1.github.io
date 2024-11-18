@@ -20,7 +20,7 @@ Duke
   
 * Work experience: 8 yrs 
 * Last employment: Washington, D.C., Oct. 2022. (His former boss relocated and Duke is too stressful to travel by plane.)
-* About him: Duke is a true maestro of the meow! His meows are like bright threads sewn into the way our team works together. He reminds us that effective communication isn't solely about words, but about the intention and emotion behind them.
+* About him: Duke has big and bright meows. He reminds us that effective communication isn't solely about words, but about the intention and emotion behind them.
 
 
 Sky
