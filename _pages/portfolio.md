@@ -31,7 +31,7 @@ Sky
   
 * Work experience: 4 yrs 
 * Last employment: [Homeward Bound Pet Adoption Center](https://www.homewardboundnj.org/), Aug. 2021
-* About her: Sky is a great example of friendship and teamwork. She has an amazing ability to follow the other cats with eager curiosity. Her funny acts remind us that getting along with others and having fun together are important parts of any group project.
+* About her: Sky enjoys following the other cats with eager curiosity. Her funny acts remind us that getting along with others and having fun together are important parts of any group project.
 
 Hayden
 
@@ -41,7 +41,7 @@ Hayden
 
 * Work experience: 4 yrs 
 * Last employment: [Homeward Bound Pet Adoption Center](https://www.homewardboundnj.org/), Aug. 2021
-* About her: Hayden has learned how to balance work and play well. A slow walk in front of our computer screens, where her tiny paw prints and soft gaze told us to take a moment for the company. Her appearance tells us to take a break from our work, breathe, and enjoy what's around us.
+* About her: Hayden likes walking in front of our computer screens. Her tiny paw prints and soft gaze tell us to take a break from work and enjoy what's around us.
 
 Orange Juice (Emeritus)
 
@@ -51,4 +51,4 @@ Orange Juice (Emeritus)
 
 * Work experience: 11 yrs 
 * Last employment: [Philadelphia Animal Welfare Society (PAWS)](https://phillypaws.org/), Dec. 2021.
-* About him: Orange Juice excels in the art of relaxation and stress reduction. His signature skill? The big purr. His purr has the power to lower stress levels and create an ambiance conducive to creative thinking and efficient problem-solving.
+* About him: OJ was good at relaxation and stress reduction. His signature skill? The big purr. His purr had power to lower stress levels and help us on creative thinking and efficient problem-solving.
