@@ -38,7 +38,7 @@ Research support team is dedicated to delivering specialized research services. 
 * About her: Hayden has learned how to balance work and play well. A slow walk in front of our computer screens, where her tiny paw prints and soft gaze told us to take a moment for the company. Her appearance tells us to take a break from our work, breathe, and enjoy what's around us.
 
 ## Orange Juice (Emeritus)
-<img src='/images/Image_mian.jpg'
+<img src='/images/gray_image.png'
   width="200" 
   height="200" > <br>
 
