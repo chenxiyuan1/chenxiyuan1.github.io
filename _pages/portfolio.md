@@ -10,7 +10,7 @@ Guanhua Zhu, Spring 2025 -
 
 
 ## Reseach Support Team
-Research support team is dedicated to delivering specialized research services. This initiative draws its inspiration from my mentor, Dr. Hubbard, an avid enthusiast of felines who features her adorable feline companions on her [website](https://www.med.upenn.edu/ehr-stats/study-team.html).
+The research support team delivers specialized services, inspired by my mentor Dr. Hubbard, who shares her love for cats on her [website](https://www.med.upenn.edu/ehr-stats/study-team.html).
 
 Duke 
 
