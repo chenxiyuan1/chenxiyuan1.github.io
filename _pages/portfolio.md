@@ -1,15 +1,19 @@
 ---
 layout: archive
-title: "Reseach Support Team"
+title: ""
 permalink: /portfolio/
 author_profile: true
 ---
 
+## Ph.D. Students:
+Guanhua Zhu, Spring 2025 -
+
+
+## Reseach Support Team
 Research support team is dedicated to delivering specialized research services. This initiative draws its inspiration from my mentor, Dr. Hubbard, an avid enthusiast of felines who features her adorable feline companions on her [website](https://www.med.upenn.edu/ehr-stats/study-team.html).
 
+Duke 
 
-
-## Duke 
 <img src='/images/Image_dudud.jpg'
     width="200" 
   height="200" ><br>
@@ -19,7 +23,8 @@ Research support team is dedicated to delivering specialized research services. 
 * About him: Duke is a true maestro of the meow! His meows are like bright threads sewn into the way our team works together. He reminds us that effective communication isn't solely about words, but about the intention and emotion behind them.
 
 
-## Sky
+Sky
+
 <img src='/images/Image_hui.jpg'
     width="200" 
   height="200" ><br>
@@ -28,7 +33,8 @@ Research support team is dedicated to delivering specialized research services. 
 * Last employment: [Homeward Bound Pet Adoption Center](https://www.homewardboundnj.org/), Aug. 2021
 * About her: Sky is a great example of friendship and teamwork. She has an amazing ability to follow the other cats with eager curiosity. Her funny acts remind us that getting along with others and having fun together are important parts of any group project.
 
-## Hayden
+Hayden
+
 <img src='/images/Image_ruan.jpg'
     width="200" 
   height="200" ><br>
@@ -37,7 +43,8 @@ Research support team is dedicated to delivering specialized research services. 
 * Last employment: [Homeward Bound Pet Adoption Center](https://www.homewardboundnj.org/), Aug. 2021
 * About her: Hayden has learned how to balance work and play well. A slow walk in front of our computer screens, where her tiny paw prints and soft gaze told us to take a moment for the company. Her appearance tells us to take a break from our work, breathe, and enjoy what's around us.
 
-## Orange Juice (Emeritus)
+Orange Juice (Emeritus)
+
 <img src='/images/gray_image.png'
   width="200" 
   height="200" > <br>
