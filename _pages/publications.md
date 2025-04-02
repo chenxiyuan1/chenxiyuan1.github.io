@@ -7,15 +7,13 @@ author_profile: true
 
 [Google scholar profile](https://scholar.google.com/citations?user=6rWkFGgAAAAJ&hl=en&oi=ao)
 
-## Preprint
+
 
 1. [AI Fairness] [Healthcare] Fairness Verification of Artificial Intelligence Algorithms in Predicting Progression of Alzheimer's Disease. (Preprint)<br>
 Chenan Wang, **Chenxi Yuan**, Jinhao Duan, Tianlong Chen, Kristin A. Linn, Rebecca A. Hubbard, Kaidi Xu
 
-3. [Generative AI] [Healthcare] Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications and Beyond. [[arXiv]](https://arxiv.org/html/2402.14259v1)<br>
+2. [Generative AI] [Healthcare] Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications and Beyond.  <i> _Engineering Applications of Artificial Intelligence_ (2025)</i> [[Paper]](https://www.sciencedirect.com/science/article/pii/S0952197624017111?casa_token=7dr8GXm9ljMAAAAA:BcQd880sK0gIoXRVhvCifWxQnY9EFy3sSN8T38uOeQxwJkzQyp-KGn-pqGKyfemNYnsIL-cX)<br>
 Zhiyuan Wang, Jinhao Duan, **Chenxi Yuan**, Qingyu Chen, Tianlong Chen, Huaxiu Yao, Yue Zhang, Ren Wang, Kaidi Xu, Xiaoshuang Shi
-
-## Published
 
 3. [Generative AI] [Healthcare] ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease. <i> _Imaging Neuroscience_ (2024)</i> [[Paper]](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00323/124778) <br>
 **Chenxi Yuan**, Jinhao Duan, Nicholas J. Tustison, Kaidi Xu, Kristin A. Linn, Rebecca A. Hubbard
