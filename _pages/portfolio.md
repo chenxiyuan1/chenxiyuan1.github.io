@@ -12,6 +12,12 @@ Guanhua Zhu, Spring 2025 -
     width="200" 
   height="260" ><br>
 
+Hanwen Li, Fall 2025 -
+
+<img src='/images/Hanwen Li.jpg'
+    width="200" 
+  height="300" ><br>
+
 ## Reseach Support Team
 The research support team delivers specialized services, inspired by my mentor Dr. Hubbard, who shares her love for cats on her [website](https://www.med.upenn.edu/ehr-stats/study-team.html).
 
