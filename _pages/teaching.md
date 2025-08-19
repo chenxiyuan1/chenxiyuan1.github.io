@@ -8,10 +8,11 @@ author_profile: true
 ## Teaching Course
 Department of Informatics, Ying Wu College of Computing, NJIT
 * IS 350 Computers, Society and Ethics, Spring 2025 <br>
+* IS 350 Computers, Society and Ethics, Fall 2026 <br>
 
 
 ## Teaching Assistant
-Mechanical and Industrial Engineering, Northeaster Univsersity
+Mechanical and Industrial Engineering, Northeastern University
 * IE 4530 Manufacturing Systems and Techniques, Fall 2019 <br>
 * IE 4520 Stochastic modeling, Spring 2019 <br>
 * IE 4520 Stochastic modeling, Fall 2018 <br>
