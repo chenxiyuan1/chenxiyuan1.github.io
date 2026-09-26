@@ -1,0 +1,35 @@
+/* Chenxi Yuan — site styles (layout mostly inline; this file adds global + responsive rules) */
+:root { --gx: max(clamp(20px, 8vw, 160px), calc((100vw - 1200px) / 2)); }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; font-family: "IBM Plex Sans", -apple-system, "Segoe UI", sans-serif; background: #F1F2E4; color: #1A1D21; }
+img { max-width: 100%; }
+a { color: #4E6A2E; text-decoration: none; }
+a:hover { color: #3A4F22; text-decoration: underline; }
+a:focus-visible, button:focus-visible { outline: 2px solid #4E6A2E; outline-offset: 3px; border-radius: 4px; }
+
+.chip { min-height: 44px; padding: 10px 18px; border-radius: 999px; font: inherit; font-size: 15px; font-weight: 500; cursor: pointer; background: transparent; color: #1A1D21; border: 1px solid #BEC6A3; }
+.chip:hover { border-color: #1A1D21; }
+.chip.on { background: #1A1D21; color: #F1F2E4; border-color: #1A1D21; }
+
+/* Tablet */
+@media (max-width: 1200px) {
+  [style*="repeat(5, minmax(0, 1fr))"] { grid-template-columns: repeat(3, minmax(0, 1fr)) !important; }
+}
+
+/* Small screens */
+@media (max-width: 900px) {
+  .site-header { flex-direction: column; align-items: flex-start !important; gap: 16px; }
+  .site-header nav { flex-wrap: wrap; gap: 12px 22px !important; }
+  [style*="grid-template-columns"] { grid-template-columns: minmax(0, 1fr) !important; gap: 32px !important; }
+  .pub { gap: 6px !important; }
+  h1 { font-size: 40px !important; }
+  p[style*="font-size: 28px"] { font-size: 21px !important; }
+  h2 { font-size: 30px !important; }
+  section { padding-top: 56px !important; padding-bottom: 56px !important; }
+  section > div[style*="justify-content: space-between"] { flex-wrap: wrap; gap: 12px; }
+  img[alt^="Portrait"] { width: 100% !important; height: auto !important; aspect-ratio: 4 / 5; }
+  [style*="white-space: nowrap"] { white-space: normal !important; }
+  .site-footer { flex-direction: column; align-items: flex-start !important; gap: 12px; }
+}
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }

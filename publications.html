@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Publications — Chenxi Yuan</title>
+<meta name="description" content="Chenxi (Chelsea) Yuan — Assistant Professor, Department of Informatics, Ying Wu College of Computing, NJIT. Trustworthy AI, generative AI, and AI for healthcare.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div style="min-height: 100vh; box-sizing: border-box; background: #F1F2E4; color: #1A1D21; font-family: 'IBM Plex Sans', -apple-system, 'Segoe UI', sans-serif; display: flex; flex-direction: column">
+
+<header class="site-header" style="box-sizing: border-box; width: 100%; padding: 28px var(--gx); display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #D6DBC2">
+<a href="index.html" style="font-family: 'Fraunces', Georgia, serif; font-size: 24px; font-weight: 600; color: #1A1D21; letter-spacing: -0.01em">Chenxi Yuan</a>
+<nav style="display: flex; gap: 36px; align-items: center; font-size: 15px">
+<a href="research.html" style="color: #1A1D21">Research</a>
+<a href="publications.html" style="color: #4E6A2E; font-weight: 600; padding: 6px 0; border-bottom: 2px solid #4E6A2E">Publications</a>
+<a href="group.html" style="color: #1A1D21">Group</a>
+<a href="talks.html" style="color: #1A1D21">Talks</a>
+<a href="teaching.html" style="color: #1A1D21">Teaching</a>
+<a href="files/CV.pdf" style="padding: 12px 20px; border: 1px solid #1A1D21; border-radius: 999px; color: #1A1D21; font-weight: 500">CV</a>
+</nav>
+</header>
+
+<section style="box-sizing: border-box; padding: 88px var(--gx) 40px; display: flex; justify-content: space-between; align-items: flex-end; gap: 48px">
+<div style="display: flex; flex-direction: column; gap: 20px">
+<div style="font-family: 'IBM Plex Mono', monospace; font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; color: #4E6A2E">Publications</div>
+<h1 style="margin: 0; font-family: 'Fraunces', Georgia, serif; font-size: 56px; line-height: 1.08; font-weight: 500; letter-spacing: -0.025em">Papers &amp; preprints</h1>
+</div>
+<a href="https://scholar.google.com/citations?user=6rWkFGgAAAAJ" style="display: flex; align-items: center; gap: 8px; padding: 12px 20px; border: 1px solid #BEC6A3; color: #1A1D21; border-radius: 999px; font-size: 15px; font-weight: 500">
+<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 9l10-5 10 5-10 5z"></path><path d="M6 11v5c3 2 9 2 12 0v-5"></path></svg>Google Scholar</a>
+</section>
+
+<section style="box-sizing: border-box; padding: 0 var(--gx) 32px; display: flex; gap: 10px; flex-wrap: wrap" id="pub-filters" role="group" aria-label="Filter publications by topic">
+
+</section>
+
+<section style="box-sizing: border-box; padding: 0 var(--gx) 96px; display: flex; flex-direction: column"><div id="pub-list"></div></section>
+
+<footer class="site-footer" style="box-sizing: border-box; margin-top: auto; padding: 40px var(--gx); border-top: 1px solid #D6DBC2; display: flex; justify-content: space-between; align-items: center; font-size: 14px; color: #5A5E63">
+<div>© 2026 Chenxi Yuan · Department of Informatics, NJIT · Newark, NJ</div>
+<div style="display: flex; gap: 24px">
+<a href="https://scholar.google.com/citations?user=6rWkFGgAAAAJ" style="color: #5A5E63">Scholar</a>
+<a href="https://www.linkedin.com/in/chenxi-yuan-586bb112b/" style="color: #5A5E63">LinkedIn</a>
+</div>
+</footer>
+
+</div>
+<script>
+var ACCENT="#4E6A2E";
+var all = [
+      { year: 'Preprint', title: 'Fairness Verification of Artificial Intelligence Algorithms in Predicting Progression of Alzheimer\u2019s Disease', pre: 'Chenan Wang, ', post: ', Jinhao Duan, Tianlong Chen, Kristin A. Linn, Rebecca A. Hubbard, Kaidi Xu', venue: 'Preprint', tags: ['AI Fairness', 'Healthcare'], link: '' },
+      { year: '2025', title: 'Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications and Beyond', pre: 'Zhiyuan Wang, Jinhao Duan, ', post: ', Qingyu Chen, Tianlong Chen, Huaxiu Yao, Yue Zhang, Ren Wang, Kaidi Xu, Xiaoshuang Shi', venue: 'Engineering Applications of Artificial Intelligence', tags: ['Generative AI', 'Healthcare'], link: 'https://www.sciencedirect.com/science/article/pii/S0952197624017111' },
+      { year: '2024', title: 'ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer\u2019s Disease', pre: '', post: ', Jinhao Duan, Nicholas J. Tustison, Kaidi Xu, Kristin A. Linn, Rebecca A. Hubbard', venue: 'Imaging Neuroscience', tags: ['Generative AI', 'Healthcare'], link: 'https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00323/124778' },
+      { year: '2024', title: 'DCG-GAN: Design Concept Generation with Generative Adversarial Networks', pre: 'Parisa Ghasemi, ', post: ', Tucker Marion, Mohsen Moghaddam', venue: 'Design Science', tags: ['Generative AI', 'Manufacturing'], link: 'https://www.cambridge.org/core/journals/design-science/article/dcggan-design-concept-generation-with-generative-adversarial-networks/A414481344F928B57E6AC09193E05CDA' },
+      { year: '2024', title: 'Interpretable Medical Deep Framework by Logits-constraint Attention Guiding Graph-based Multi-scale Fusion for Alzheimer\u2019s Disease Analysis', pre: 'Jinghao Xu, ', post: ', Xiaochuan Ma, Huifang Shang, Xiaoshuang Shi, Xiaofeng Zhu', venue: 'Pattern Recognition', tags: ['Machine Learning', 'Healthcare'], link: 'https://www.sciencedirect.com/science/article/abs/pii/S0031320324002012' },
+      { year: '2023', title: 'Algorithmic Fairness of Machine Learning Models for Alzheimer\u2019s Disease Progression Prediction', pre: '', post: ', Kristin A. Linn, Rebecca A. Hubbard', venue: 'JAMA Network Open', tags: ['AI Fairness', 'Healthcare'], link: 'https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2811461' },
+      { year: '2023', title: 'DDE-GAN: Integrating a Data-Driven Design Evaluator into Generative Adversarial Networks for Desirable and Diverse Concept Generation', pre: '', post: ', Tucker Marion, Mohsen Moghaddam', venue: 'Journal of Mechanical Design', tags: ['Generative AI', 'Manufacturing'], link: 'https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/145/4/041407/1154775/DDE-GAN-Integrating-a-Data-Driven-Design-Evaluator' },
+      { year: '2023', title: 'Are Generative Adversarial Networks Capable of Generating Novel and Diverse Design Concepts? An Experimental Analysis of Performance', pre: 'Parisa Ghasemi, ', post: ', Tucker Marion, Mohsen Moghaddam', venue: 'Proceedings of the Design Society', tags: ['Generative AI', 'Manufacturing'], link: 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/05D912C74658C40E78C66D2304103C7E/S2732527X23000640a.pdf' },
+      { year: '2022', title: 'Trends in Intelligent Manufacturing Research: A Keyword Co-occurrence Network Based Review', pre: '', post: ', Guoyan Li, Sagar Kamarthi, Xiaoning Jin, Mohsen Moghaddam', venue: 'Journal of Intelligent Manufacturing', tags: ['Machine Learning', 'Manufacturing'], link: 'https://link.springer.com/article/10.1007/s10845-021-01885-x' },
+      { year: '2021', title: 'Leveraging End-User Data for Enhanced Design Concept Evaluation: A Multimodal Deep Regression Model', pre: '', post: ', Tucker Marion, Mohsen Moghaddam', venue: 'Journal of Mechanical Design', tags: ['Generative AI', 'Manufacturing'], link: 'https://asmedigitalcollection.asme.org/mechanicaldesign/article/144/2/021403/1119449' },
+      { year: '2021', title: 'Data Science Skills and Domain Knowledge Requirements in the Manufacturing Industry: A Gap Analysis', pre: 'Guoyan Li, ', post: ', Sagar Kamarthi, Mohsen Moghaddam, Xiaoning Jin', venue: 'Journal of Manufacturing Systems', tags: ['Machine Learning', 'Manufacturing'], link: 'https://www.sciencedirect.com/science/article/pii/S0278612521001448' },
+      { year: '2020', title: 'Attribute-Aware Generative Design with Generative Adversarial Networks', pre: '', post: ', Mohsen Moghaddam', venue: 'IEEE Access', tags: ['Generative AI', 'Manufacturing'], link: 'https://ieeexplore.ieee.org/iel7/6287639/8948470/09229421.pdf' },
+      { year: '2020', title: 'Garment Design with Generative Adversarial Networks', pre: '', post: ', Mohsen Moghaddam', venue: 'ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Workshop', tags: ['Generative AI', 'Manufacturing'], link: 'https://arxiv.org/pdf/2007.10947' },
+      { year: '2020', title: 'Flocculation Behavior of Cationic Pea Starch Prepared by the Graft Copolymerization of Acrylamide for Wastewater Treatment', pre: 'Yongqiang Zou, Shanshan Li, Yuqi Wang, ', post: ', Weijian Yuan, Lan Zheng, Xiaolong Han', venue: 'Journal of Applied Polymer Science', tags: [], link: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/app.43922' }
+    ];
+
+var labels=['All','Generative AI','AI Fairness','Machine Learning','Healthcare','Manufacturing'];
+var current='All';
+function esc(t){var d=document.createElement('div');d.textContent=t;return d.innerHTML;}
+function render(){
+  var fb=document.getElementById('pub-filters');
+  fb.innerHTML=labels.map(function(l){var on=l===current;
+    return '<button type="button" class="chip'+(on?' on':'')+'" aria-pressed="'+on+'" data-l="'+esc(l)+'">'+esc(l)+'</button>';}).join('');
+  Array.prototype.forEach.call(fb.querySelectorAll('button'),function(b){b.onclick=function(){current=b.getAttribute('data-l');render();};});
+  var list=all.filter(function(p){return current==='All'||p.tags.indexOf(current)!==-1;});
+  document.getElementById('pub-list').innerHTML=list.map(function(p){
+    return '<div class="pub" style="display: grid; grid-template-columns: 120px minmax(0, 1fr); gap: 32px; padding: 28px 0; border-top: 1px solid #D6DBC2">'+
+    '<div style="font-family: \'IBM Plex Mono\', monospace; font-size: 14px; color: #5A5E63; padding-top: 4px">'+esc(p.year)+'</div>'+
+    '<div style="display: flex; flex-direction: column; gap: 10px">'+
+    '<div style="font-family: \'Fraunces\', Georgia, serif; font-size: 22px; font-weight: 500; line-height: 1.35">'+esc(p.title)+'</div>'+
+    '<div style="font-size: 15px; line-height: 1.55; color: #4F5358">'+esc(p.pre)+'<strong style="color: #1A1D21; font-weight: 600">Chenxi Yuan</strong>'+esc(p.post)+'</div>'+
+    '<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap">'+
+    '<div style="font-size: 15px; font-style: italic; color: #1A1D21">'+esc(p.venue)+'</div>'+
+    p.tags.map(function(t){return '<div style="font-family: \'IBM Plex Mono\', monospace; font-size: 12px; padding: 4px 10px; border-radius: 999px; background: #E5E8D1; color: #33373C">'+esc(t)+'</div>';}).join('')+
+    (p.link?'<a href="'+p.link+'" style="font-size: 15px; font-weight: 500; color: '+ACCENT+'">Paper →</a>':'')+
+    '</div></div></div>';}).join('');
+}
+render();
+</script>
+</body>
+</html>
