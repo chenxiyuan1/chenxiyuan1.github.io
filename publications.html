@@ -30,7 +30,7 @@
 <div style="font-family: 'IBM Plex Mono', monospace; font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; color: #4E6A2E">Publications</div>
 <h1 style="margin: 0; font-family: 'Fraunces', Georgia, serif; font-size: 56px; line-height: 1.08; font-weight: 500; letter-spacing: -0.025em">Papers &amp; preprints</h1>
 </div>
-<a href="https://scholar.google.com/citations?user=6rWkFGgAAAAJ" style="display: flex; align-items: center; gap: 8px; padding: 12px 20px; border: 1px solid #BEC6A3; color: #1A1D21; border-radius: 999px; font-size: 15px; font-weight: 500">
+<a target="_blank" rel="noopener" href="https://scholar.google.com/citations?user=6rWkFGgAAAAJ" style="display: flex; align-items: center; gap: 8px; padding: 12px 20px; border: 1px solid #BEC6A3; color: #1A1D21; border-radius: 999px; font-size: 15px; font-weight: 500">
 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 9l10-5 10 5-10 5z"></path><path d="M6 11v5c3 2 9 2 12 0v-5"></path></svg>Google Scholar</a>
 </section>
 
@@ -43,8 +43,8 @@
 <footer class="site-footer" style="box-sizing: border-box; margin-top: auto; padding: 40px var(--gx); border-top: 1px solid #D6DBC2; display: flex; justify-content: space-between; align-items: center; font-size: 14px; color: #5A5E63">
 <div>© 2026 Chenxi Yuan · Department of Informatics, NJIT · Newark, NJ</div>
 <div style="display: flex; gap: 24px">
-<a href="https://scholar.google.com/citations?user=6rWkFGgAAAAJ" style="color: #5A5E63">Scholar</a>
-<a href="https://www.linkedin.com/in/chenxi-yuan-586bb112b/" style="color: #5A5E63">LinkedIn</a>
+<a target="_blank" rel="noopener" href="https://scholar.google.com/citations?user=6rWkFGgAAAAJ" style="color: #5A5E63">Scholar</a>
+<a target="_blank" rel="noopener" href="https://www.linkedin.com/in/chenxi-yuan-586bb112b/" style="color: #5A5E63">LinkedIn</a>
 </div>
 </footer>
 
@@ -86,7 +86,7 @@ function render(){
     '<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap">'+
     '<div style="font-size: 15px; font-style: italic; color: #1A1D21">'+esc(p.venue)+'</div>'+
     p.tags.map(function(t){return '<div style="font-family: \'IBM Plex Mono\', monospace; font-size: 12px; padding: 4px 10px; border-radius: 999px; background: #E5E8D1; color: #33373C">'+esc(t)+'</div>';}).join('')+
-    (p.link?'<a href="'+p.link+'" style="font-size: 15px; font-weight: 500; color: '+ACCENT+'">Paper →</a>':'')+
+    (p.link?'<a target="_blank" rel="noopener" href="'+p.link+'" style="font-size: 15px; font-weight: 500; color: '+ACCENT+'">Paper →</a>':'')+
     '</div></div></div>';}).join('');
 }
 render();
